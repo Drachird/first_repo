@@ -7,3 +7,5 @@ elif cislo == 1:
     print('Čtvereček')
 else:
     print('Trojúhelník')
+
+    oasjf
